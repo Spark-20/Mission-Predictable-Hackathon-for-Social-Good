@@ -39,8 +39,8 @@
 ---
 ## Dataset
 
--<a href="https://data.ca.gov/dataset/529ac907-6ba1-4cb7-9aae-8966fc96aeef/resource/42d33765-20fd-44b8-a978-b083b7542225/download/hospitals_by_county.csv" target="_blank">'Hospitals by county California Dataset`</a
-- <a href="/api/v1/states/ca/daily.csv" target="_blank"> "Statewide cases dataset"</a>
+- <a href="https://data.ca.gov/dataset/529ac907-6ba1-4cb7-9aae-8966fc96aeef/resource/42d33765-20fd-44b8-a978-b083b7542225/download/hospitals_by_county.csv" target="_blank"> Hospitals by county California Dataset </a>
+- <a href="https://covidtracking.com/api/v1/states/ar/daily.csv" target="_blank"> Statewide cases dataset</a>
 ---
 
 ## Contributing
