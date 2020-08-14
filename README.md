@@ -5,14 +5,11 @@
 
 - [About Mission Predictable Hackathon](#AboutMissionPredictableHackathon)
 - [Problem Statement](#ProblemStatement)
-- [Installation](#installation)
-- [Features](#features)
+- [Solution](#Solution)
+- [Libraries](#Libraries)
+- [Dataset](#Dataset)
 - [Contributing](#contributing)
 - [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-
 
 ---
 ## About Mission Predictable Hackathon
@@ -39,12 +36,6 @@ With the continued spread of Covid, the number of hospital beds needed to accomm
 - pyshp==1.2.10
 - shapely==1.6.3
 
-
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/reponame`
-
-
 ## Dataset
 
 - <a href="https://data.ca.gov/dataset/529ac907-6ba1-4cb7-9aae-8966fc96aeef/resource/42d33765-20fd-44b8-a978-b083b7542225/download/hospitals_by_county.csv" target="_blank"> Hospitals by county California Dataset </a>
@@ -68,12 +59,9 @@ With the continued spread of Covid, the number of hospital beds needed to accomm
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/reponame" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
-
-
+- 🔃 Create a new pull request using <a href="https://github.com/reponame" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>
 
 ## Team Spark 20
-
 
 - Amma Ofori
 - Devika Thampi
@@ -81,5 +69,7 @@ With the continued spread of Covid, the number of hospital beds needed to accomm
 - Tiffany Lau Joa
 - Violeta Gotcheva
 
+---
+### Thanks to Women Who Code Data Science Community for this Hackathon
 ---
 
