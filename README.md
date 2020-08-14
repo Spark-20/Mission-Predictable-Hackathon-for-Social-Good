@@ -1,4 +1,4 @@
-# Mission-Predictable-Hackathon
+# WWC-DataScience-Mission-Predictable-Hackathon
 
 
 ## Table of Contents
@@ -24,25 +24,21 @@
 - With COVID hospitalizations rising steeply in California, the state is on the brink of facing the worst-case scenario: the possibility of cases exceeding capacity. ICU doctors are forced to make brutal decisions: prioritizing and rationing medical care for patients with more severe conditions. The goal of this project is to estimate the amount of beds needed to meet the growing number of patients.
 
 
-
+---
 ## Installation
 
 - 
 -
 -
 -
-
+---
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/reponame`
 
-
+---
 ## Features
-
-## Usage (Optional)
-
-## Documentation (Optional)
-
+---
 
 ## Contributing
 
@@ -54,7 +50,7 @@
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/repo.git`
 
 ### Step 2
 
@@ -62,7 +58,7 @@
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/joanaz/repo" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
 
 ---
 
@@ -76,7 +72,7 @@
 - Violeta Gotcheva
 
 
-| [![FVCproductions](url of image)
+ ![FVCproductions](url of image)
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
 
