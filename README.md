@@ -7,6 +7,7 @@
 - [Problem Statement](#ProblemStatement)
 - [Solution](#Solution)
 - [Libraries](#Libraries)
+- [Training](#Training)
 - [Dataset](#Dataset)
 - [Contributing](#contributing)
 - [Team](#team)
