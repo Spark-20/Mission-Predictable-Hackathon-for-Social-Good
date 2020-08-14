@@ -25,9 +25,9 @@ With COVID hospitalizations rising steeply in California, the state is on the br
 
 With the continued spread of Covid, the number of hospital beds needed to accommodate patients with the covid is unknown. Our solution is to use machine learning and come up with a model that would predict the number of beds needed in the future. Using California and its counties, our model can predict the number of beds needed three days in advance. This better prepares the hospital for the number of new patients admitted in need of beds with laboratory-confirmed COVID.
 
-We decided to use a time series model (LSTM) to predict the future demand of hospital beds in California based on the data of past few months. We also developed an interactive map which on hovering will provide estimations on the bed availability in different counties. 
+We decided to use a time series model (LSTM), trained with AWS SageMaker to predict the future demand of hospital beds in California based on the data of past few months. We also developed an interactive map using plotly which on hovering will provide estimations on the bed availability in different counties. 
 
-Disclaimer: The interactive map is not being displayed properly on Jupyter Notebook when viewed on Github. Please see attached screenshots of map below:
+Disclaimer: The interactive map is not being displayed properly on Jupyter Notebook when viewed on Github but will run properly otherwise. Please see attached screenshots of map below:
 ![Map](https://github.com/Spark-20/Mission-Predictable-Hackathon/blob/master/outputs/Available%20ICU%20beds.gif)
 ![Map](https://github.com/Spark-20/Mission-Predictable-Hackathon/blob/master/outputs/Available%20hospital%20beds.gif)
 
@@ -42,6 +42,9 @@ Disclaimer: The interactive map is not being displayed properly on Jupyter Noteb
 - geopandas==0.3.0
 - pyshp==1.2.10
 - shapely==1.6.3
+
+## :arrow_forward: Training
+ - LSTM Model trained with Amazon Sagemaker
 
 ## :page_facing_up: Dataset
 
