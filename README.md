@@ -1,7 +1,7 @@
 # WWC-DataScience-Mission-Predictable-Hackathon
 
 
-## Table of Contents
+## :memo: Table of Contents
 
 - [About Mission Predictable Hackathon](#AboutMissionPredictableHackathon)
 - [Problem Statement](#ProblemStatement)
@@ -12,7 +12,7 @@
 - [Team](#team)
 
 ---
-## About Mission Predictable Hackathon
+## :round_pushpin: About Mission Predictable Hackathon
 ![Mission Predictable](https://s3-us-west-2.amazonaws.com/wwcodefroala/uploads%2F1595013116901-WWCode+Data+Science+AWS+Hackathon+%282%29.png)
 Credits: WWC
 
@@ -42,7 +42,7 @@ With the continued spread of Covid, the number of hospital beds needed to accomm
 - <a href="https://data.ca.gov/dataset/529ac907-6ba1-4cb7-9aae-8966fc96aeef/resource/42d33765-20fd-44b8-a978-b083b7542225/download/hospitals_by_county.csv" target="_blank"> Hospitals by county California Dataset </a>
 - <a href="https://covidtracking.com/api/v1/states/ar/daily.csv" target="_blank"> Statewide cases dataset</a>
 
-## Contributing
+## :point_down: Contributing
 
 > To get started
 
@@ -71,6 +71,6 @@ With the continued spread of Covid, the number of hospital beds needed to accomm
 - Violeta Gotcheva
 
 ---
-### :pray: Thanks to Women Who Code Data Science Community for organising this Hackathon
+### :pray: Thanks to Women Who Code Data Science Community for organizing this Hackathon
 ---
 
