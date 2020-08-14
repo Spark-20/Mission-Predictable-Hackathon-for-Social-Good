@@ -18,6 +18,7 @@
 ---
 ## Mission Predictable Hackathon
 <a href="https://s3-us-west-2.amazonaws.com/wwcodefroala/uploads%2F1595013116901-WWCode+Data+Science+AWS+Hackathon+%282%29.png" title="Mission Predictable" alt= "mission predictable"> </a>
+![alt text](https://s3-us-west-2.amazonaws.com/wwcodefroala/uploads%2F1595013116901-WWCode+Data+Science+AWS+Hackathon+%282%29.pn)
 
 ## Problem Statement
 <h3> How many beds will we need to accommodate the surging number of COVID infected patients in California? </h3>
