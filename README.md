@@ -1,14 +1,11 @@
 # Mission-Predictable-Hackathon
-<a href="https://media-exp1.licdn.com/dms/image/C4D0BAQGPnHexM6VAkw/company-logo_200_200/0?e=2159024400&v=beta&t=sIggL5NEbrxAscA8ZfswlviawO39oEy1_PwcO5vfTGU" title="WWC" alt="WWC"></a>
-
-# Problem Statement
-<h3> How many beds will we need to accommodate the surging number of COVID infected patients in California? </h3>
-
-- With COVID hospitalizations rising steeply in California, the state is on the brink of facing the worst-case scenario: the possibility of cases exceeding capacity. ICU doctors - are forced to make brutal decisions: prioritizing and rationing medical care for patients with more severe conditions. The goal of this project is to estimate the amount of - - beds needed to meet the growing number of patients.
+<a href="https://images.app.goo.gl/3kgoc5ctcpPYzHMK8" title="WWC" alt="WWC"></a>
 
 
 ## Table of Contents
 
+- [About Mission Predictable Hackathonn]
+- [Problem Statement]
 - [Installation](#installation)
 - [Features](#features)
 - [Contributing](#contributing)
@@ -19,6 +16,15 @@
 
 
 ---
+## Mission Predictable Hackathon
+
+
+## Problem Statement
+<h3> How many beds will we need to accommodate the surging number of COVID infected patients in California? </h3>
+
+- With COVID hospitalizations rising steeply in California, the state is on the brink of facing the worst-case scenario: the possibility of cases exceeding capacity. ICU doctors are forced to make brutal decisions: prioritizing and rationing medical care for patients with more severe conditions. The goal of this project is to estimate the amount of beds needed to meet the growing number of patients.
+
+
 
 ## Installation
 
