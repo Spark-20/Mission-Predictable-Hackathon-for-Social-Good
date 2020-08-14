@@ -37,12 +37,15 @@
 - Clone this repo to your local machine using `https://github.com/reponame`
 
 ---
-## Features
+## Dataset
+
+-<a href="https://data.ca.gov/dataset/529ac907-6ba1-4cb7-9aae-8966fc96aeef/resource/42d33765-20fd-44b8-a978-b083b7542225/download/hospitals_by_county.csv" target="_blank">'Hospitals by county California Dataset`</a
+- <a href="/api/v1/states/ca/daily.csv" target="_blank"> "Statewide cases dataset"</a>
 ---
 
 ## Contributing
 
-> To get started...
+> To get started
 
 ### Step 1
 
@@ -58,7 +61,7 @@
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/repo" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/reponame" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
 
 ---
 
@@ -71,19 +74,5 @@
 - Tiffany Lau Joa
 - Violeta Gotcheva
 
-
- ![FVCproductions](url of image)
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
-
 ---
 
-## Support
-
-Reach out to me at one of the following places!
-
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
-
----
