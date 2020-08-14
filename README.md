@@ -52,15 +52,14 @@ With the continued spread of Covid, the number of hospital beds needed to accomm
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/repo.git`
-
+    - 👯 Clone this repo to your local machine using https://github.com/Spark-20/Mission-Predictable-Hackathon.git
 ### Step 2
 
 - **HACK AWAY!** 🔨🔨🔨
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/reponame" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>
+- 🔃 Create a new pull request using <a href="https://github.com/Spark-20/Mission-Predictable-Hackathon" target="_blank"> https://github.com/Spark-20/Mission-Predictable-Hackathon</a>
 
 ## :star: Team Spark 20
 
