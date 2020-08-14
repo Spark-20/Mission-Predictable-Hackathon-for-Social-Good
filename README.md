@@ -45,8 +45,8 @@ Disclaimer: The interactive map is not being displayed properly on Github. Pleas
 
 ## :page_facing_up: Dataset
 
-- <a href="https://data.ca.gov/dataset/529ac907-6ba1-4cb7-9aae-8966fc96aeef/resource/42d33765-20fd-44b8-a978-b083b7542225/download/hospitals_by_county.csv" target="_blank"> Hospitals by county California Dataset </a>
-- <a href="https://covidtracking.com/api/v1/states/ar/daily.csv" target="_blank"> Statewide cases dataset</a>
+- <a href="https://github.com/Spark-20/Mission-Predictable-Hackathon/blob/master/dataset/hospitals_by_county.csv" target="_blank"> Hospitals by county California Dataset </a>
+- <a href="https://github.com/Spark-20/Mission-Predictable-Hackathon/blob/master/dataset/statewide_cases.csv" target="_blank"> Statewide cases dataset</a>
 
 ## :point_down: Contributing
 
