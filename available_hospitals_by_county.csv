@@ -1,0 +1,57 @@
+county,todays_date,all_hospital_beds,icu_available_beds
+Trinity,8/7/2020,25,0
+San Francisco,8/7/2020,1832,54
+Humboldt,8/7/2020,260,8
+Colusa,8/7/2020,48,0
+Lake,8/7/2020,65,2
+San Mateo,8/7/2020,695,27
+Sacramento,8/7/2020,2456,84
+San Bernardino,8/7/2020,3786,136
+Tehama,8/7/2020,59,2
+Plumas,8/7/2020,35,0
+Mariposa,8/7/2020,19,0
+San Benito,8/7/2020,25,3
+Inyo,8/7/2020,29,4
+Solano,8/7/2020,552,7
+San Joaquin,8/7/2020,1022,13
+Tuolumne,8/7/2020,84,2
+Mendocino,8/7/2020,150,7
+Placer,8/7/2020,733,26
+Napa,8/7/2020,359,17
+Yuba,8/7/2020,265,9
+Kings,8/7/2020,193,9
+Tulare,8/7/2020,714,16
+Kern,8/7/2020,1300,43
+San Diego,8/7/2020,6017,301
+Imperial,8/7/2020,261,6
+Mono,8/7/2020,17,1
+Monterey,8/7/2020,710,22
+Contra Costa,8/7/2020,1430,45
+Los Angeles,8/7/2020,18941,814
+Riverside,8/7/2020,3419,99
+Stanislaus,8/7/2020,1249,22
+Glenn,8/7/2020,47,0
+Modoc,8/7/2020,41,0
+Del Norte,8/7/2020,52,2
+San Luis Obispo,8/7/2020,451,21
+Butte,8/7/2020,451,9
+Orange,8/7/2020,5706,247
+Alameda,8/7/2020,2393,87
+Fresno,8/7/2020,1555,8
+Calaveras,8/7/2020,33,4
+Marin,8/7/2020,313,8
+Shasta,8/7/2020,427,8
+Madera,8/7/2020,274,6
+Sutter,8/7/2020,0,0
+Nevada,8/7/2020,113,8
+Lassen,8/7/2020,25,0
+El Dorado,8/7/2020,189,9
+Santa Barbara,8/7/2020,666,40
+Santa Cruz,8/7/2020,276,12
+Siskiyou,8/7/2020,56,4
+Merced,8/7/2020,253,0
+Yolo,8/7/2020,96,6
+Sonoma,8/7/2020,532,7
+Amador,8/7/2020,51,2
+Ventura,8/7/2020,1314,36
+Santa Clara,8/7/2020,3047,99
