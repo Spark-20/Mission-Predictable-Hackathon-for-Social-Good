@@ -79,6 +79,13 @@ Disclaimer: The interactive map is not being displayed properly on Jupyter Noteb
 - Tiffany Lau Joa
 - Violeta Gotcheva
 
+## :rocket: Future Work
+- Expanding this model for Country wise predictions
+- Deeper insights on the hospitals in each county including total ICU beds, available ventilators, percent capacity remaining, and more.
+- Build a dashboard using AWS QuickSight for easy visualization.
+- Building time-enabled maps.
+- Prediction of worse-case, best-case and average-case scenarios.
+
 ---
 ### :pray: Thanks to Women Who Code Data Science Community for organizing this Hackathon
 ---
