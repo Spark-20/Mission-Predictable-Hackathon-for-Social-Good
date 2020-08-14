@@ -27,7 +27,7 @@ With the continued spread of Covid, the number of hospital beds needed to accomm
 
 We decided to use a time series model (LSTM) to predict the future demand of hospital beds in California based on the data of past few months. We also developed an interactive map which on hovering will provide estimations on the bed availability in different counties. 
 
-Disclaimer: The interactive map is not being displayed properly on Github. Please see attached screenshots of map below:
+Disclaimer: The interactive map is not being displayed properly on Jupyter Notebook when viewed on Github. Please see attached screenshots of map below:
 ![Map](https://github.com/Spark-20/Mission-Predictable-Hackathon/blob/master/outputs/Available%20ICU%20beds.gif)
 ![Map](https://github.com/Spark-20/Mission-Predictable-Hackathon/blob/master/outputs/Available%20hospital%20beds.gif)
 
