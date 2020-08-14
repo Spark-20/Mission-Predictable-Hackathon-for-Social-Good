@@ -25,6 +25,10 @@ With COVID hospitalizations rising steeply in California, the state is on the br
 
 With the continued spread of Covid, the number of hospital beds needed to accommodate patients with the covid is unknown. Our solution is to use machine learning and come up with a model that would predict the number of beds needed in the future. Using California and its counties, our model can predict the number of beds needed three days in advance. This better prepares the hospital for the number of new patients admitted in need of beds with laboratory-confirmed COVID.
 
+We decided to use a time series model (LSTM) to predict the future demand of hospital beds in California based on the data of past few months. We also developed an interactive map which on hovering will provide estimations on the bed availability in different counties. 
+
+Disclaimer: The interactive map is not being displayed properly on Github. Please see attached screenshots of map below:
+
 ## :closed_book: Libraries
 
 - tensorflow
