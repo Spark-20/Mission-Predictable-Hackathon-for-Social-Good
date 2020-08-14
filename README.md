@@ -23,7 +23,9 @@ Credits: WWC
 
 With COVID hospitalizations rising steeply in California, the state is on the brink of facing the worst-case scenario: the possibility of cases exceeding capacity. ICU doctors are forced to make brutal decisions: prioritizing and rationing medical care for patients with more severe conditions. The goal of this project is to estimate the amount of beds needed to meet the growing number of patients.
 
-<span style="display:block;text-align:center">![Covid](https://github.com/Spark-20/Mission-Predictable-Hackathon/blob/master/Images/three.png)</span>
+<p align="center">
+  <img src="https://github.com/Spark-20/Mission-Predictable-Hackathon/blob/master/Images/three.png"/>
+</p>
 
 
 ## :key: Solution
