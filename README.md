@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [About Mission Predictable Hackathon](#About Mission Predictable Hackathon)
+- [About Mission Predictable Hackathon](#AboutMissionPredictableHackathon)
 - [Problem Statement](#ProblemStatement)
 - [Installation](#installation)
 - [Features](#features)
@@ -90,15 +90,10 @@ $ bower install
 
 ---
 
-## Team
+## Team Spark 20
 
-> Or Contributors/People
-
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
-| :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
-
+> 
+| [![FVCproductions](https://avatars0.githubusercontent.com/u/62565525?s=460&u=b5b733293eba5895b43f2909415dfd969507b445&v=4?s=200)
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
 
