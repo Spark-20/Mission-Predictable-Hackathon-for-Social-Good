@@ -92,6 +92,9 @@ Disclaimer: The interactive map is not being displayed properly on Jupyter Noteb
 - Building time-enabled maps.
 - Prediction of worse-case, best-case and average-case scenarios.
 
+## :link: Links and References
+- Google Slides presentation: https://docs.google.com/presentation/d/1O0bA_chjaAFnx6PK2XJrnDuPZaMCWXqVLT7cQbP0WsY/edit?usp=sharing
+
 ---
 ### :pray: Thanks to Women Who Code Data Science Community for organizing this Hackathon
 ---
